@@ -93,3 +93,6 @@ Este documento explica cada columna del CSV `listings.csv` de Airbnb.
 - **calculated_host_listings_count / calculated_host_listings_count_entire_homes / _private_rooms / _shared_rooms** → Cantidad de propiedades del host desglosadas por tipo.  
 
 
+
+
+Preguntas
